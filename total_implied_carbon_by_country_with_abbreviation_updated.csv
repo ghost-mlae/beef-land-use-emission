@@ -1,0 +1,221 @@
+Country,Total Implied Carbon Emission,Country Abbreviation
+China,0.791279563,CHN
+USA,0.423258544,USA
+Japan,0.089895699,JPN
+Rep. of Korea,0.059109778,KOR
+Chile,0.052102695,CHL
+Netherlands,0.040673148,NLD
+Germany,0.040272629,DEU
+Italy,0.032183937,ITA
+Israel,0.031612858,ISR
+Egypt,0.028834614,EGY
+United Kingdom,0.023955224,GBR
+United Arab Emirates,0.02372685,ARE
+Philippines,0.023512059,PHL
+France,0.021196888,FRA
+Mexico,0.020954041,MEX
+Canada,0.020642748,CAN
+Indonesia,0.017941833,IDN
+"China, Hong Kong SAR",0.017902582,"China, Hong Kong SAR"
+"Other Asia, nes",0.017772202,"Other Asia, nes"
+Russian Federation,0.017684007,RUS
+Saudi Arabia,0.015649097,SAU
+Malaysia,0.012499238,MYS
+Viet Nam,0.011436368,VNM
+Brazil,0.01096033,BRA
+Portugal,0.010097257,PRT
+Spain,0.009937909,ESP
+Greece,0.007495609,GRC
+Singapore,0.007121612,SGP
+Uruguay,0.006924344,URY
+Thailand,0.0066396,THA
+Iran,0.00532211,IRN
+Sweden,0.00530133,SWE
+Denmark,0.004897487,DNK
+Belgium,0.004764267,BEL
+Kuwait,0.004260018,KWT
+Iraq,0.004126964,IRQ
+Jordan,0.003493862,JOR
+Qatar,0.003303717,QAT
+El Salvador,0.003035398,SLV
+Switzerland,0.003029961,CHE
+Czechia,0.002989462,CZE
+Austria,0.002982511,AUT
+Libya,0.002697752,LBY
+Ireland,0.002083763,IRL
+Lebanon,0.002024486,LBN
+Albania,0.001940778,ALB
+Uzbekistan,0.00186892,UZB
+Georgia,0.001692637,GEO
+T??rkiye,0.001687489,T??rkiye
+Guatemala,0.001622673,GTM
+Bosnia Herzegovina,0.001573583,BIH
+Croatia,0.001532361,HRV
+State of Palestine,0.001508852,PSE
+Poland,0.001433545,POL
+Australia,0.001282183,AUS
+Bahrain,0.001273147,BHR
+Oman,0.001232827,OMN
+Peru,0.00120401,PER
+French Polynesia,0.001126344,PYF
+Serbia,0.001113428,SRB
+Trinidad and Tobago,0.001034874,TTO
+Norway,0.001022866,NOR
+Dominican Rep.,0.000944618,DOM
+Kazakhstan,0.000938874,KAZ
+Argentina,0.000926738,ARG
+Angola,0.000922686,AGO
+"China, Macao SAR",0.000889579,"China, Macao SAR"
+Costa Rica,0.000847984,CRI
+Senegal,0.000798702,SEN
+Colombia,0.000786054,COL
+Romania,0.000733509,ROU
+Hungary,0.000714945,HUN
+Paraguay,0.000709461,PRY
+Cambodia,0.000708493,KHM
+North Macedonia,0.000703743,MKD
+Gabon,0.000689534,GAB
+Finland,0.0006386,FIN
+Jamaica,0.000635909,JAM
+Luxembourg,0.000622074,LUX
+Slovakia,0.000610355,SVK
+Aruba,0.000563903,ABW
+Panama,0.000561866,PAN
+Montenegro,0.000560208,MNE
+Kyrgyzstan,0.00049,KGZ
+Ghana,0.000455105,GHA
+Slovenia,0.000448172,SVN
+Cura??ao,0.000426586,CUW
+Bahamas,0.000407278,BHS
+Papua New Guinea,0.000389005,PNG
+Bangladesh,0.000375822,BGD
+Lithuania,0.000372588,LTU
+New Zealand,0.000372302,NZL
+Barbados,0.000371848,BRB
+Malta,0.000340177,MLT
+Bulgaria,0.000330885,BGR
+Cyprus,0.000324777,CYP
+South Africa,0.000307322,ZAF
+Morocco,0.000304429,MAR
+Azerbaijan,0.000278059,AZE
+Maldives,0.000274223,MDV
+Tunisia,0.000258064,TUN
+Congo,0.000253228,COD
+Armenia,0.00024215,ARM
+New Caledonia,0.000208001,NCL
+Brunei Darussalam,0.000206944,BRN
+Mauritius,0.000203265,MUS
+Honduras,0.00017806,HND
+Cuba,0.000163452,CUB
+Somalia,0.000157636,SOM
+Cayman Isds,0.000138892,CYM
+Estonia,0.000138745,EST
+Comoros,0.000138552,COM
+C??te d'Ivoire,0.00013562,CIV
+Algeria,0.000128937,DZA
+Dem. Rep. of the Congo,0.000121901,COD
+Bermuda,0.000121563,BMU
+Andorra,0.000121392,AND
+Cabo Verde,0.000115611,CPV
+Samoa,0.000111287,WSM
+Seychelles,0.000107748,SYC
+Turkmenistan,0.000103633,TKM
+Ecuador,0.000102865,ECU
+Fiji,9.54E-05,FJI
+Liberia,9.30E-05,LBR
+Latvia,9.17E-05,LVA
+Tonga,8.90E-05,TON
+Saint Maarten,8.38E-05,SXM
+Bhutan,8.09E-05,BTN
+Iceland,7.88E-05,ISL
+Turks and Caicos Isds,7.02E-05,TCA
+Equatorial Guinea,7.00E-05,GNQ
+Saint Pierre and Miquelon,6.46E-05,SPM
+Kenya,6.06E-05,KEN
+Pakistan,6.05E-05,PAK
+Ukraine,5.91E-05,UKR
+Antigua and Barbuda,5.12E-05,ATG
+Saint Lucia,5.07E-05,LCA
+American Samoa,4.54E-05,ASM
+Mali,4.11E-05,MLI
+Cook Isds,4.05E-05,COK
+Grenada,4.01E-05,GRD
+Central African Rep.,3.55E-05,CAF
+Suriname,3.52E-05,SUR
+Gibraltar,3.43E-05,GIB
+Solomon Isds,3.35E-05,SLB
+India,3.34E-05,IND
+Marshall Isds,3.31E-05,MHL
+Palau,3.05E-05,PLW
+Sierra Leone,2.72E-05,SLE
+Djibouti,2.68E-05,DJI
+Br. Virgin Isds,2.60E-05,VGB
+Ethiopia,2.43E-05,ETH
+Wallis and Futuna Isds,2.11E-05,WLF
+Greenland,2.08E-05,GRL
+Guinea,1.99E-05,GIN
+Saint Kitts and Nevis,1.85E-05,KNA
+Belarus,1.83E-05,BLR
+Bolivia (Plurinational State of),1.80E-05,BOL
+Mauritania,1.59E-05,MRT
+Guyana,1.46E-05,GUY
+Gambia,1.30E-05,GMB
+Sri Lanka,1.25E-05,LKA
+Anguilla,1.15E-05,AIA
+FS Micronesia,1.14E-05,FSM
+United Rep. of Tanzania,1.12E-05,TZA
+N. Mariana Isds,1.10E-05,MNP
+Nicaragua,1.08E-05,NIC
+Haiti,1.05E-05,HTI
+Myanmar,1.00E-05,MMR
+Namibia,9.99E-06,NAM
+Sudan,9.95E-06,SDN
+Lao People's Dem. Rep.,8.05E-06,LAO
+Nauru,7.20E-06,NRU
+Guam,7.18E-06,GUM
+Saint Vincent and the Grenadines,7.01E-06,VCT
+Tajikistan,6.68E-06,TJK
+Kiribati,5.22E-06,KIR
+Yemen,5.13E-06,YEM
+Rep. of Moldova,4.30E-06,MDA
+Eritrea,3.55E-06,ERI
+Benin,3.46E-06,BEN
+Belize,3.25E-06,BLZ
+Cameroon,3.12E-06,CMR
+South Sudan,2.93E-06,SSD
+Niger,2.75E-06,NER
+Dominica,2.70E-06,DMA
+Falkland Isds (Malvinas),2.61E-06,FLK
+Mozambique,2.25E-06,MOZ
+Nigeria,2.24E-06,NGA
+Mongolia,2.23E-06,MNG
+Christmas Isds,2.15E-06,CXR
+Nepal,2.06E-06,NPL
+Niue,1.70E-06,NIU
+Afghanistan,1.68E-06,AFG
+Fr. South Antarctic Terr.,1.33E-06,ATF
+Bonaire,1.24E-06,BES
+Chad,1.06E-06,TCD
+Norfolk Isds,8.96E-07,NFK
+Uganda,8.70E-07,UGA
+Sao Tome and Principe,7.58E-07,STP
+Cocos Isds,4.93E-07,CCK
+Togo,4.62E-07,TGO
+Burkina Faso,3.26E-07,BFA
+Venezuela,2.42E-07,VEN
+Vanuatu,1.89E-07,VUT
+Guinea-Bissau,1.80E-07,GNB
+Montserrat,5.95E-08,MSR
+Madagascar,5.88E-08,MDG
+Br. Indian Ocean Terr.,2.21E-09,IOT
+Timor-Leste,8.44E-10,TLS
+Burundi,7.79E-10,BDI
+Botswana,0,BWA
+Eswatini,0,Eswatini
+Lesotho,0,LSO
+Malawi,0,MWI
+Rwanda,0,RWA
+Saint Helena,0,SHN
+Tuvalu,0,TUV
+Zambia,0,ZMB
+Zimbabwe,0,ZWE
