@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # 定义路径
-data_folder_path = 'D:/联培/data/1995-2017-2022/'  # 修改为你的文件路径
+data_folder_path = 'D:/联培/data/1995-2017-2022/'  
 
 # 初始化一个空的DataFrame来存储所有年份的数据
 combined_df = pd.DataFrame()
